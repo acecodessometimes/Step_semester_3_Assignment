@@ -5,7 +5,7 @@
 - Set up repo structure (main / develop / feature branches)
 
 **Next Session Plan:**
-- Begin Session 1 assignment problems
+- Begin Session 6 assignment problems
 
 **Issues Faced:**
 - None
